@@ -1,0 +1,4 @@
+2024-09-12 18:55:51,219 INFO Creating download object as as_source with files:
+['data_stream-oper.nc']
+2024-09-12 18:55:51,220 INFO status has been updated to successful
+45cef8642eda93eb97c1ce2c7c30bf90.nc:   0%|          | 0.00/4.69M [00:00<?, ?B/s]45cef8642eda93eb97c1ce2c7c30bf90.nc:  21%|██▏       | 1.00M/4.69M [00:00<00:01, 2.88MB/s]                                                                                         
